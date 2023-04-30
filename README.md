@@ -24,7 +24,7 @@ bash scripts/build_wnsub.sh
 ```
 
 ## Acknowledgement
-SemCor 3.0 dataset accessed through WSD evaluation frameword (Raganato et al., 2017)
+SemCor 3.0 was dataset accessed through WSD evaluation frameword (Raganato et al., 2017)
 
 ```
 Alessandro Raganato, José Camacho-Collados and Roberto Navigli. Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison In Proceedings of European Chapter of the Association for Computational Linguistics (EACL), Valencia, Spain, April 3-7, 2017. 
